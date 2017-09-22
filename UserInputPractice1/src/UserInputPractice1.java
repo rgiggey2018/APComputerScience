@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// added to Git
 public class UserInputPractice1 {
 
 	public static void main(String[] args) {
